@@ -1,4 +1,4 @@
 myfirstapps
 ===========
 
-My first aoos and experiments
+My first apps and experiments
